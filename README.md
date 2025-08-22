@@ -23,5 +23,29 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 
+USECASE DIAGRAM
+
+<img width="1235" height="889" alt="image" src="https://github.com/user-attachments/assets/6a8a8895-33be-4a4a-862f-462ebe680f6b" />
+
+CLASS DIAGRAM
+
+<img width="1236" height="889" alt="image" src="https://github.com/user-attachments/assets/5803e4ed-8302-41a4-af72-f1ce2241b846" />
+
+SEQUENCE DIAGRAM
+
+<img width="1231" height="1007" alt="image" src="https://github.com/user-attachments/assets/ac2328e5-5ae9-4dc2-91f2-07166cd4ceb6" />
+
+ACTIVITY DIAGRAM
+
+<img width="752" height="973" alt="image" src="https://github.com/user-attachments/assets/7b199df8-5c87-4eb4-b685-1c8dd3aee9c5" />
+
+PACKAGE DIAGRAM
+
+<img width="1090" height="705" alt="image" src="https://github.com/user-attachments/assets/5f725dbf-f1a6-4bd0-958b-7ff08eb681e6" />
+
+COLLABORATION DIAGRAM
+
+<img width="1221" height="1004" alt="image" src="https://github.com/user-attachments/assets/6dfa3f38-5842-4e4c-a443-4b5439e8c5db" />
+
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
